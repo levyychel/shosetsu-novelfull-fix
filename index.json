@@ -1,0 +1,16 @@
+{
+  "libraries": [],
+  "scripts": [
+    {
+      "name": "NovelFull (NET) - Fixed",
+      "fileName": "NovelFullNETFixed",
+      "imageURL": "https://shosetsuorg.gitlab.io/extensions/icons/NovelFullNET.png",
+      "id": 951841,
+      "lang": "en",
+      "ver": "1.0.1",
+      "libVer": "1.0.0",
+      "md5": "6d642ac68271edc06e6acb9d692a0888"
+    }
+  ],
+  "styles": []
+}
